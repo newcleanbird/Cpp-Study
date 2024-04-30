@@ -40,5 +40,5 @@
 
 ## 从封装变化角度对模式分类
 ### 组件协作：
-+ [Template Method 模板方法](Template-Method\\Template-Method.md)
-+ [Strategy 策略模式](Strategy)
++ [Template Method 模板方法](Template-Method/Template-Method.md)
++ [Strategy 策略模式](Strategy/Strategy.md)
