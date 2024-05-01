@@ -61,10 +61,14 @@
   + 减少系统中各部分的依赖关系，从而实现“高内聚、松耦合”的类型设计方案。
 
 ## 从封装变化角度对模式分类
-### 组件协作：
+### “组件协作”模式：
+现代软件专业分工之后的第一个结果是“框架与应用程序的划分”，“组件协作”模式通过晚期绑定，来实现框架与应用程序之间的松耦合，是二者之间协作时常用的模式。
 + [Template Method 模板方法](Template-Method/Template-Method.md)
 + [Strategy 策略模式](Strategy/Strategy.md)
-+ [Observer/Event](Observer/Observer.md)
++ [Observer/Event 观察者模式](Observer/Observer.md)
+### “单一职责”模式：
+在软件组件的设计中，如果责任划分的不清晰，使用继承得到的结果往往是随着需求的变化，子类急剧膨胀，同时充斥着重复代码，这时候的关键是划清责任。
++ [Decorator 装饰模式](Decorator/Decorator.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
