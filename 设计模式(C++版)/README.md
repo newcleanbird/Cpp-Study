@@ -87,6 +87,9 @@
 + [Proxy 代理模式](Proxy/Proxy.md)
 + [Adapter 适配器模式](Adapter/Adapter.md)
 + [Mediator 中介者模式](Mediator/Mediator.md)
+### “状态变化”模式
+在组件构建过程中，某些对象的状态经常面临变化，如何对这些变化进行有效的管理？同时又维持高层模块的稳定？“状态变化”模式为这一问题提供了一种解决方案。
++ [State 状态模式](State/State.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
