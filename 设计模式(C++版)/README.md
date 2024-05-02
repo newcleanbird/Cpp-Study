@@ -86,6 +86,7 @@
 + [Façade 门面模式](Facade/Facade.md)
 + [Proxy 代理模式](Proxy/Proxy.md)
 + [Adapter 适配器模式](Adapter/Adapter.md)
++ [Mediator 中介者模式](Mediator/Mediator.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
