@@ -93,7 +93,8 @@
 + [Memento 备忘录模式](Memento/Memento.md)
 ### “数据结构”模式
 常常有一些组件在内部具有特定的数据结构，如果让客户程序依赖这些特定的数据结构，将极大的破坏组件的复用。这时候将这些特定数据结构封装在内部，在外界提供统一的接口，来实现与特定数据结构无关的访问，是一种行之有效的解决方案。
-+ [Composite](Composite/Composite.md)
++ [Composite 组合模式](Composite/Composite.md)
++ [Iterator 迭代器模式](Iterator/Iterator.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
