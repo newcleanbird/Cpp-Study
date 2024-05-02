@@ -70,6 +70,11 @@
 在软件组件的设计中，如果责任划分的不清晰，使用继承得到的结果往往是随着需求的变化，子类急剧膨胀，同时充斥着重复代码，这时候的关键是划清责任。
 + [Decorator 装饰模式](Decorator/Decorator.md)
 + [Bridge 桥接模式](Bridge/Bridge.md)
+### “对象创建”模式
+通过"对象创建"模式绕开new，来避免对象创建(new)过程中所导致的紧耦合(依赖具体类)，从而支持对象创建的稳定，它是接口抽象之后的第一步工作。
++ [Simple-Factroy 简单工厂模式](Simple-Factroy/Simple-Factroy.md)
++ [Factory-Method 工厂方法模式](Factory-Method/Factory-Method.md)
++ [Abstract Factory 抽象工厂模式](Abstract-Factory/Abstract-Factory.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
