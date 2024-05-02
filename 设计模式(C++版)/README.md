@@ -83,7 +83,8 @@
 + [Flyweight 享元](Flyweight/Flyweight.md)
 ### “接口隔离模式”
 在组件构建过程中，某些接口之间直接的依赖常常会带来很多问题、甚至根本无法实现，采用添加一层间接(稳定)接口，来隔离本来相互紧密关联的接口是一种常见的解决方案。
-+ [Façade(门面模式)](Facade/Facade.md)
++ [Façade 门面模式](Facade/Facade.md)
++ [Proxy 代理模式](Proxy/Proxy.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
