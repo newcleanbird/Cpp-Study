@@ -75,6 +75,7 @@
 + [Simple-Factroy 简单工厂模式](Simple-Factroy/Simple-Factroy.md)
 + [Factory-Method 工厂方法模式](Factory-Method/Factory-Method.md)
 + [Abstract Factory 抽象工厂模式](Abstract-Factory/Abstract-Factory.md)
++ [Prototype 原型模式](Prototype/Prototype.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
