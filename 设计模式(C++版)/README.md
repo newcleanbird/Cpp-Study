@@ -80,7 +80,7 @@
 ### “对象性能”模式
 面向对象很好的解决了"抽象"的问题，但不可避免的要付出一定的代价。对于通常情况来讲，面向对象的成本大都可以忽略不计。但是某些情况，面型对象所带来的成本必须谨慎处理。
 + [Singleton 单例模式](Singleton/Singleton.md)
-+ [Flyweight 享元](Flyweight/README.md)
++ [Flyweight 享元](Flyweight/Flyweight.md)
 
 ## 重构获得模式 Refactoring to Pattern
 面向对象设计模式是“好的面向对象设计”，所谓“好的面向对象设计”指是那些可以满足 “应对变化，提高复用”的设计 。
