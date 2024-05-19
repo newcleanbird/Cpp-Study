@@ -21,12 +21,12 @@
 [匿名对象](/面向对象/匿名对象.md)
 
 ## 关键字与限定符
-[const](/C++限定符/const.md)
-[static](/C++限定符/static.md)
-[extern](/C++限定符/extern.md)
-[explicit](/C++限定符/explicit.md)
-[noexcept](/C++限定符/noexcept.md)
-[volatile](/C++限定符/volatile.md)
+[const](/关键字与限定符/const.md)
+[static](/关键字与限定符/static.md)
+[extern](/关键字与限定符/extern.md)
+[explicit](/关键字与限定符/explicit.md)
+[noexcept](/关键字与限定符/noexcept.md)
+[volatile](/关键字与限定符/volatile.md)
 
 ## 语言特性相关
 [auto 20类型推导](/语言特性相关/auto%20类型推导.md)
