@@ -80,10 +80,10 @@ AlignedData* ptr = static_cast<AlignedData*>(::operator new(sizeof(AlignedData),
 - 重复释放：重复调用delete或delete[]释放同一块内存会导致未定义行为，可能引起程序崩溃。
 - 类型匹配：使用new分配内存时指定的类型必须与delete释放时的类型相匹配，包括数组和非数组类型的区别。
 - 自定义内存管理：可以通过重载全局的operator new和operator delete来自定义内存分配和释放的行为。如果你使用了自定义的operator new，也应该提供对应的operator delete版本，以保持内存管理的一致性。
-[new](new.md)
+[new](/关键字与限定符/new.md)
 - 智能指针：现代C++推荐使用智能指针（如std::unique_ptr和std::shared_ptr）来自动管理动态内存，从而减少手动调用delete的需要。
 - 在C++11之后，还可以使用带有对齐参数的operator new和operator delete，以支持对齐要求较高的类型。
 
 
 ## 禁止继承或重写 = delete
-[=delete](=delete.md)
+[=delete](/关键字与限定符/=delete.md)

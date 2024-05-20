@@ -284,7 +284,7 @@ operator delete(ps);//释放内存空间，对应于operator new()
 ```cpp
 void operator delete(void *memoryToBeDeallocated);
 ```
-[delete](delete.md)
+[delete](/关键字与限定符/=delete.md)
 
 ## malloc
 
