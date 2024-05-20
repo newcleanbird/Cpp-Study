@@ -21,12 +21,22 @@
 [匿名对象](/面向对象/匿名对象.md)
 
 ## 关键字与限定符
+变量修饰符：
 [const](/关键字与限定符/const.md)
 [static](/关键字与限定符/static.md)
 [extern](/关键字与限定符/extern.md)
+[volatile](/关键字与限定符/volatile.md)
+
+函数修饰符：
 [explicit](/关键字与限定符/explicit.md)
 [noexcept](/关键字与限定符/noexcept.md)
-[volatile](/关键字与限定符/volatile.md)
+
+内存分配关键字：
+[new](/关键字与限定符/new.md)
+[delete](/关键字与限定符/delete.md)
+[malloc](/关键字与限定符/malloc.md)
+[realloc](/关键字与限定符/realloc.md)
+[free](/关键字与限定符/free.md)
 
 ## 语言特性相关
 [auto 20类型推导](/语言特性相关/auto%20类型推导.md)
